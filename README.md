@@ -79,7 +79,7 @@ Cash Inflows, Cash Outflows, Receivables Aging (Days), Payables Aging (Days), Re
 ## Repository Contents
 - `Financial_Dashboard.pbix` – Power BI dashboard file  
 - `Financial_Dashboard_One_Page_Report.pdf` – Project summary  
-- `dashboard_screenshot.png` – Preview image
+- `Dashboard image` – Preview image
 
 ---
 
